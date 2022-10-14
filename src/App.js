@@ -18,6 +18,7 @@ function App() {
           me gusta la verga
           cirstofer gay
           confirmo que si es gay
+          kevin es negro
         </a>
       </header>
     </div>
