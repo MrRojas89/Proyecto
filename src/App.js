@@ -17,6 +17,7 @@ function App() {
         >
           me gusta la verga
           cirstofer gay
+          confirmo que si es gay
         </a>
       </header>
     </div>
